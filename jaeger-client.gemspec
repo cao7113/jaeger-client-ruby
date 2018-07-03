@@ -26,6 +26,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'rubocop', '~> 0.54.0'
   spec.add_development_dependency 'rubocop-rspec', '~> 1.24.0'
 
-  spec.add_dependency 'opentracing', '~> 0.3'
+  spec.add_dependency 'opentracing', '~> 0.4'
   spec.add_dependency 'thrift'
 end
